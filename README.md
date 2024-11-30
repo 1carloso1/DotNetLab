@@ -1,9 +1,6 @@
 # Introducción a .NET y Windows Forms
 
 Este repositorio contiene una serie de programas básicos desarrollados con .NET y Windows Forms, diseñados como actividades introductorias para aprender este lenguaje y su entorno. Es ideal para principiantes que desean adquirir conocimientos básicos en .NET.
-
----
-
 ## Contenido del Repositorio
 
 Los programas incluyen ejemplos y ejercicios prácticos que abarcan conceptos esenciales, como:
@@ -14,15 +11,10 @@ Los programas incluyen ejemplos y ejercicios prácticos que abarcan conceptos es
 
 Cada actividad está diseñada para brindar una base sólida en el uso de .NET y formularios.
 
----
-
 ## Requisitos Previos
 
 - Tener instalado [.NET SDK](https://dotnet.microsoft.com/download) en tu computadora.
 - Familiaridad básica con la terminal de comandos.
-
----
-
 ## Ejecución de los Programas
 
 Para ejecutar cualquiera de los programas en este repositorio, sigue estos pasos:
