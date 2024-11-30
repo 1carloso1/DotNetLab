@@ -1,0 +1,17 @@
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\bin\Debug\net6.0-windows\Calculator_Forms.exe
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\bin\Debug\net6.0-windows\Calculator_Forms.deps.json
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\bin\Debug\net6.0-windows\Calculator_Forms.runtimeconfig.json
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\bin\Debug\net6.0-windows\Calculator_Forms.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\bin\Debug\net6.0-windows\Calculator_Forms.pdb
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\refint\Calculator_Forms.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.pdb
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\Calculator_Forms.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\Calculator\obj\Debug\net6.0-windows\ref\Calculator_Forms.dll

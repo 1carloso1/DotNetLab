@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\bin\Debug\net6.0\BegginerActivities.exe
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\bin\Debug\net6.0\BegginerActivities.deps.json
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\bin\Debug\net6.0\BegginerActivities.runtimeconfig.json
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\bin\Debug\net6.0\BegginerActivities.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\bin\Debug\net6.0\BegginerActivities.pdb
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\refint\BegginerActivities.dll
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.pdb
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\BegginerActivities.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Portafolio_Software\DotNetLab\BegginerActivities\obj\Debug\net6.0\ref\BegginerActivities.dll

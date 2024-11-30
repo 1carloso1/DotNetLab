@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms\\Calculator_Forms.csproj": {}
+    "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms\\Calculator_Forms.csproj": {
+    "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms\\Calculator_Forms.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms.csproj",
         "projectName": "Calculator_Forms",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms\\Calculator_Forms.csproj",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\Calculator_Forms\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Desktop\\Portafolio_Software\\DotNetLab\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
